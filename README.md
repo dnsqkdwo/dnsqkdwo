@@ -4,7 +4,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dnsqkdwo&theme=github" 
        style="width: 66%;" />
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브 아이디&show_icons=true&theme=github)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnsqkdwo&show_icons=true&theme=radical)  
 </div>
 
 
