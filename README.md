@@ -5,9 +5,9 @@
        style="width: 66%;" />
 
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=%깃허브%아이디&show_icons=true&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=%깃허브%아이디&show_icons=true&theme=light">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=%깃허브%아이디&show_icons=true&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dnsqkdwo&show_icons=true&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dnsqkdwo&show_icons=true&theme=light">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dnsqkdwo&show_icons=true&theme=light">
 </picture>
 
  <div class="header">
